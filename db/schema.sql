@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS musicTaste_db;
+CREATE DATABASE musicTaste_db;
+
